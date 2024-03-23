@@ -7,7 +7,7 @@
   MSG1 DB 'FIRST $',
   MSG2 DB  CR,LF,'SECOND $'
   MSG3 DB  CR,LF,'THIRD $'
-  MSG4 DB  CR,LF,'FOURTH $'
+  MSG4 DB  0DH,0AH,'FOURTH $'
 .CODE
   MAIN PROC
     MOV AX, @DATA   ; Segment address of data segment
