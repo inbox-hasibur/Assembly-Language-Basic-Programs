@@ -1,9 +1,9 @@
 # Assembly-Language-Basic-Programs
-- Message on New Line (CR, LF)
-- Uppercase to Lowercase
-- Output 2 Digit Serial Number from user
-- Display a message on screen
-- SUM of 2 Input
-- Swap 2 input
-- High lvl to Assembly  X=20-2*A+B
-- 2-Digit input to ASCII
+1. Message on New Line (CR, LF)
+2. Display a message on screen
+3. Output 2 Digit Serial Number from user
+4. Uppercase to Lowercase
+5. SUM of 2 Input
+6. Swap 2 input
+7. High lvl to Assembly  X=20-2*A+B
+8. 2-Digit input to ASCII
